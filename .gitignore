@@ -1,0 +1,12 @@
+__pycache__/*
+uploads/*
+crop/*
+static/src/uploads/*
+ngrok
+ngrok-v3-stable-linux-amd64.tgz
+test/*
+models/src/__pycache__/*
+weights/*
+datastore/*
+.vscode/*
+datastoreuit/*
